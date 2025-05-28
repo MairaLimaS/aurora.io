@@ -7,7 +7,7 @@ Este repositório contém o dashboard interativo do projeto, que avalia a maturi
 
 ## Acesse o Dashboard
 
-[Clique aqui para acessar o app ao vivo no shinyapps.io](https://f0vyja-maira-lima.shinyapps.io/Aurora_V0/)
+[Clique aqui para acessar o app ao vivo no shinyapps.io](https://mairalmas.shinyapps.io/auroraBta/)
 
 
 
